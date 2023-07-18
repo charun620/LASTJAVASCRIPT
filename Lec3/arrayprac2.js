@@ -7,7 +7,7 @@ for (let index = 0; index < 2; index++) {
   for (let i = 0; i < values2.length; i++) {
     const element2 = values2[i];
     if (element1 === element2) {
-      console.log("values1 has a same value2 is" + element2);
+      console.log("values1 has a  same value2 is" + element2);
     }
   }
 
