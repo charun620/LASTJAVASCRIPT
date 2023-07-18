@@ -23,8 +23,8 @@ for (let name of names) {
 }
 
 // do while loop **sniplet
-let x = 0;
+/*let x = 0;
 
 do {
   console.log(names[x]);
-} while (x < names.length);
+} while (x < names.length);*/
