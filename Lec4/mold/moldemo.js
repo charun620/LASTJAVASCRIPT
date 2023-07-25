@@ -1,8 +1,8 @@
 //libhrllo.js
 
 const person = {
-    name: "Panwan",
-    weight: 85,
+    name: "Chrn",
+    weight: 120,
   };
   
   function sayHello() {}
