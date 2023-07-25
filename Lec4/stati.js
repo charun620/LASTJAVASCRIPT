@@ -17,4 +17,3 @@ class Dog {
   myDog.introduce();
   
   Dog.bark(); // ตัวอย่าง
-  
