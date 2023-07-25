@@ -1,4 +1,4 @@
-const hello = require("./libHello");
+const hello = require("./moldemo");
 
 hello.sayHello();
 console.log(hello.person.name);
