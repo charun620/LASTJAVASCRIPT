@@ -13,7 +13,7 @@ class Dog {
     }
   }
   
-  const myDog = new Dog("scooter");
+  const myDog = new Dog("ARD");
   myDog.introduce();
   
   Dog.bark(); // ตัวอย่าง
