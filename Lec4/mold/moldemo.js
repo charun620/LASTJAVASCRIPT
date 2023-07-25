@@ -2,7 +2,7 @@
 
 const person = {
     name: "Chrn",
-    weight: 120,
+    weight: 110,
   };
   
   function sayHello() {}
