@@ -12,7 +12,7 @@ function promiseTimeout(ms) {
     console.log("Start!!");
     await promiseTimeout(2000);
   
-    const response = await longRunningOperation();
+    const response =await longRunningOperation();
     console.log(response);
   
     console.log("Stop!!");
