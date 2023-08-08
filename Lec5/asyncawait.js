@@ -5,12 +5,12 @@ function promiseTimeout(ms) {
   }
   
   async function run() {
-    console.log("Stsrt!!");
+    console.log("Start!!");
     await promiseTimeout(2000);
     console.log("Stop!!");
   }
   
-  console.log("before run");
+//  console.log("before run");
   run();
-  console.log("after run");
+  //console.log("after run");
   
