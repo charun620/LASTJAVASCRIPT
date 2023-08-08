@@ -2,7 +2,7 @@ const promise = new Promise((resolve,rejects)=>{
     const res = true;
     //An asynchronus operation
     if (res) {
-        resolve("Resolve");
+        resolve("Resolved!");
 
         
     } else {
