@@ -6,4 +6,6 @@ function digiclock(sec) {
   return console.log(`${hours}:${minutes}:${re}`);
 }
 
+
+
 digiclock(5025)
